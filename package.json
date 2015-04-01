@@ -1,0 +1,9 @@
+{
+  "name": "bzdeck_addon",
+  "title": "BzDeck",
+  "id": "jid1-0h9Ss27zzBhX8w",
+  "description": "Redirect you to BzDeck when you open a bugzilla link",
+  "author": "Shing Lyu (shing.lyu@gmail.com)",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
